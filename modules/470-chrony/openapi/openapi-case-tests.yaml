@@ -1,9 +1,0 @@
-positive:
-  config_values:
-  - ntpServers:
-    - pool.ntp.org
-    - ntp.ubuntu.com
-negative:
-  config_values:
-  - ntpservers:
-    - a:b

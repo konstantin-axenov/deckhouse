@@ -1,5 +1,0 @@
-kube-dns:
-  fixes:
-    - summary: Added "prefer_udp" to stub zones.
-      pull_request: https://github.com/deckhouse/deckhouse/pull/2800
-

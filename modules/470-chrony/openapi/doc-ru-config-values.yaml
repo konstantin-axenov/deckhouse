@@ -1,5 +1,0 @@
-properties:
-  ntpServers:
-    type: array
-    description: |
-      Список NTP серверов для синхронизации.

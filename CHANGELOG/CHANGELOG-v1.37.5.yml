@@ -1,5 +1,0 @@
-istio:
-  fixes:
-    - summary: Fix the `D8IstioGlobalControlplaneDoesntWork` alert.
-      pull_request: https://github.com/deckhouse/deckhouse/pull/2714
-

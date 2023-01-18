@@ -1,9 +1,0 @@
----
-layout: none
-searchable: false
-sitemap_include: false
-permalink: en/sitemap.xml
-lang: en
----
-
-{% include sitemap.liquid %}
